@@ -15,6 +15,3 @@
 <br />
   
 ---
-
-![Horayo-Glitch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Horayo-Glitch&show_icons=true&theme=gruvbox)
-<img align="center" alt="Horayo-Glitch's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horayo-Glitch&langs_count=8&layout=compact" />
